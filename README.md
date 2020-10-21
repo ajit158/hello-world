@@ -1,2 +1,2 @@
 # hello-world
-Sample Repository
+This one is the new commited repository which i am making while earning about github.
